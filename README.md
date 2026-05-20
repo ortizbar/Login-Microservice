@@ -1,1 +1,2 @@
 # Login-Microservice
+#Description: The Login Microservice will receive a POST request from applications with the username and password. The microservice will check the validity of the login attempt by checking the provided passwords with stored account information. The microservice will produce a JSON response with authentication status, confirmation messages, or error notifications after processing the request.
