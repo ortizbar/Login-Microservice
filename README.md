@@ -21,7 +21,7 @@ Request parameters
 # Example call:
 import requests
 
-url = "http://localhost:3000/login"
+url = "http://localhost:5000/login"
 data = { "username":"test123", "password":"test1234"}
 response = requests.post(url, json=data)
 
